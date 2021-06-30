@@ -15,4 +15,4 @@
 ### Сборка и деплой приложения
 
 1. Собрать приложение можно с помощью команды: mvn package (для этого должен быть устрановлен maven)
-2. Деплой приложения происходит с помощью команды: sudo ./spark-submit --class App path/DINS/target/uber-DINS-1.0-SNAPSHOT.jar (Опционально можно указать аргумент - название IP адреса)
+2. Деплой приложения происходит с помощью команды: sudo ./spark-submit --class App path/DINS/target/uber-Packets_SparkKafka_Alert-1.0-SNAPSHOT.jar (Опционально можно указать аргумент - название IP адреса)
