@@ -1,4 +1,4 @@
-# DINS_Task
+# Packets_SparkKafka_Alert
 
 ## Руководство по запуску:
 
